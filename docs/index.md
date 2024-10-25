@@ -5,7 +5,7 @@
 This Blender addon is made to provide you the best tools to assemble your modular assets.
 
 <figure markdown>
-  ![Easy Builder](images/main_presentation.jpg){ width="800" } 
+  ![Easy Builder](images/MainBanner.png){ width="800" } 
   <figcaption>Easy Builder</figcaption>
 </figure>
 
